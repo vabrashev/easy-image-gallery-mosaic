@@ -24,7 +24,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	 * @since 1.0
 	 */
 	class EIG_Mosaic {
-		private $addon_slug = 'mosaic';
+		private $addon_slug = 'easy-image-gallery-mosaic-master';
 
 		public function __construct() {
 			//add_action( 'plugins_loaded', array( $this, 'load_textdomain' ) );
